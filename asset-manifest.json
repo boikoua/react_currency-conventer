@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_currency-conventer/static/css/main.3bb5b026.css",
+    "main.js": "/react_currency-conventer/static/js/main.2e8c7e49.js",
+    "index.html": "/react_currency-conventer/index.html",
+    "main.3bb5b026.css.map": "/react_currency-conventer/static/css/main.3bb5b026.css.map",
+    "main.2e8c7e49.js.map": "/react_currency-conventer/static/js/main.2e8c7e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb5b026.css",
+    "static/js/main.2e8c7e49.js"
+  ]
+}
